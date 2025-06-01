@@ -4,7 +4,7 @@ This project focuses on optimizing customer flow in a grocery retail environment
 
 ## 🎬 Simulation Demo
 
--- [📽️ Download Demo Video](simulation/demo_video.mp4)
+-- [📽️ Download Demo Video](https://github.com/MahendharMittapally/Customer_Flow_Optimization_at_Sprouts_Grocery_Store/blob/main/Model_Video.mp4)
 
 
 ### 🎯 Objective
