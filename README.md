@@ -2,6 +2,11 @@
 ### 📌 Overview
 This project focuses on optimizing customer flow in a grocery retail environment, specifically at Sprouts Farmers Market, using Simio simulation modeling. The goal is to address bottlenecks and inefficiencies in customer movement and checkout processes, improving both customer satisfaction and operational efficiency.
 
+## 🎬 Simulation Demo
+
+-- [📽️ Download Demo Video](simulation/demo_video.mp4)
+
+
 ### 🎯 Objective
 To design and implement a dynamic simulation model that:
 
